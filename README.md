@@ -1,4 +1,4 @@
-# Projeto Autoral Programaria Frontend 1 - Biografia Pessoal 🥰
+No# Projeto Autoral Programaria Frontend 1 - Biografia Pessoal 🥰
 
 <p>Projeto autoral criado por mim para praticar meus conhecimentos em HTML, CSS e JavaScript no decorrer da jornada.</p>
 <p><b><i>Desafio:</b></i> Criar uma página qualquer, usando sua própria imaginação. 😍</p>
